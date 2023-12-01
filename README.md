@@ -4,7 +4,7 @@ While there exists a substantial body of research focused on the simplification 
 
 Link to Research Paper: https://ieeexplore.ieee.org/document/10307165
 
-Use the "dataset" branch to access the dataset.
+Use the "dataset" branch to access our custom dataset.
 
 ## Cite the paper using the APA Format
 
