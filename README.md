@@ -6,7 +6,10 @@ Link to Research Paper: https://ieeexplore.ieee.org/document/10307165
 
 Use the "dataset" branch to access the dataset.
 
-## Cite the paper while using the code
+## Cite the paper using the APA Format
+C. Shah, A. Shah, L. Varma, S. Bhan and N. Patil, "Sentence Restructuring with User-Controlled Difficulty using NLP," 2023 14th International Conference on Computing Communication and Networking Technologies (ICCCNT), Delhi, India, 2023, pp. 1-6, doi: 10.1109/ICCCNT56998.2023.10307165.
+
+## Or use the following BibLatex Code
 ```
 @INPROCEEDINGS{10307165,
   author={Shah, Chaitya and Shah, Aesha and Varma, Lokita and Bhan, Sarthak and Patil, Nilesh},
