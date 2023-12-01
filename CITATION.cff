@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Shah"
+  given-names: "Chaitya"
+  orcid: "https://orcid.org/0009-0001-3250-855X"
+- family-names: "Shah"
+  given-names: "Aesha"
+- family-names: "Varma"
+  given-names: "Lokita"
+- family-names: "Bhan"
+  given-names: "Sarthak"
+- family-names: "Patil"
+  given-names: "Nilesh"
+title: "Sentence Restructuring with User-Controlled Difficulty using NLP"
+doi: 10.1109/ICCCNT56998.2023.10307165
+url: "https://ieeexplore.ieee.org/document/10307165"
